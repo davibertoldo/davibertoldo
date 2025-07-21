@@ -9,9 +9,9 @@ Welcome to my GitHub profile! I'm a software development student currently learn
 
 ## 🧰 Technologies & Tools
 
-- **Languages:** Java, SQL
-- **Technologies:** HTML, CSS
-- **Tools:** Git, VS Code, Eclipse
+- **Languages:** Java
+- **Technologies:** HTML, CSS, SQL
+- **Tools:** Git, VS Code, Eclipse, MySQL
 
 ## 🌐 Connect with Me
 
