@@ -4,7 +4,7 @@ Welcome to my GitHub profile! I'm a software development student currently learn
 
 ## 🚀 About Me
 
-- 💻 Software development student with a strong interest in cybersecurity
+- 💻 Software development student, focusing on Java
 - 💼 Gaining experience working for tech companies in Brazil
 
 ## 🧰 Technologies & Tools
