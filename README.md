@@ -1,23 +1,28 @@
 # 👋 Hi, I'm Davi!
 
-Welcome to my GitHub profile! I'm a software development student currently learning Java, SQL, and HTML/CSS.
+Information Systems student at UNISUL. I combine a practical background in **Sales Operations** with technical skills in **Software Engineering**.
 
-## 🚀 About Me
+## 🚀 Professional Summary
 
-- 💻 Software development student, focusing on Java
-- 💼 Gaining experience working for tech companies in Brazil
+Currently working with **Data Analysis & Commercial Systems** for a tech company with **LATAM-level operations**. My focus is on automating workflows, modeling business processes, and optimizing data structures.
 
-## 🧰 Technologies & Tools
+- 🎓 **Education:** Bachelor in Information Systems (In progress).
+- 💼 **Current Role:** Transitioning from Ops to **Data Analysis & Backend Development**.
 
-- **Languages:** Java
-- **Technologies:** HTML, CSS, SQL
-- **Tools:** Git, VS Code, Eclipse, MySQL
+## 🛠️ Tech Stack
 
-## 🌐 Connect with Me
+**Languages & Database**
+- **Java** (POO / MVC architecture)
+- **SQL** (PostgreSQL / MySQL)
+- **Google Apps Script** (Business Automation)
+- **HTML / CSS**
+
+**Tools & Environment**
+- **Metabase** & **Looker Studio**
+- **Git** & **GitHub**
+- **RD Station CRM** & **Odoo**
+
+## 🌐 Connect
 
 - [LinkedIn](https://www.linkedin.com/in/davibertoldo)
-- [Email](mailto:davibertoldo22@gmail.com)
-
----
-
-Thanks for stopping by! 🚀
+- [Email](mailto:davibertoldo23@gmail.com)
