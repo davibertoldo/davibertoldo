@@ -12,7 +12,7 @@ Currently working with **Data Analysis & Commercial Systems** for a tech company
 ## 🛠️ Tech Stack
 
 **Languages & Database**
-- **Java** (POO / MVC architecture)
+- **Java** (OOP / MVC architecture)
 - **SQL** (PostgreSQL / MySQL)
 - **Google Apps Script** (Business Automation)
 - **HTML / CSS**
