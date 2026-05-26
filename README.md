@@ -21,8 +21,6 @@ In addition to data analysis, I provide system-level technical support for inter
 **Tools & Expertise**
 - **Metabase**
 - **Data Studio (former Looker Studio)**
-- **IntelliJ IDEA**
-- **PyCharm IDEA**
 - **Odoo**
 - **RD Station (CRM)**
 - **Git** & **GitHub**
