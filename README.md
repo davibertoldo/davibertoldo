@@ -1,32 +1,24 @@
-# 👋 Hi, I'm Davi!
+# Hi, I'm Davi!
 
-I'm a Data & Systems Analyst and Computer Information Systems undergraduate, combining a solid background in Sales Operations and Business Intelligence. I leverage my technical expertise and experience in major Brazilian tech companies to build scalable, data-driven solutions.
+I'm a Computer Information Systems undergraduate currently working as a data analyst. It mostly revolves around commercial systems — cleaning and structuring data, migrating CRMs, building dashboards, and more recently coordinating an AI implementation for a sales team. I like the part of the job where messy processes turn into something clear and usable.
 
-## 🚀 Professional Summary
+What I'm most interested in now is Product: taking that same hands-on experience with requirements, systems, and data, and applying it to building products people actually want to use. I'm building toward that with the development of a side project called Floripa Ajuda, which maps social support services in Florianópolis.
 
-Currently working as a Data Analysis Assistant, building analytical reporting layers and optimizing data structures for LATAM-level commercial operations. I specialize in turning complex datasets into actionable business intelligence, providing easy access to key insights and performance metrics.
-In addition to data analysis, I provide system-level technical support for internal systems across business units, translating commercial operational needs into product improvements.
+## Tech Stack
 
-- 🎓 **Education:** B.S. in Computer Information Systems (University of South Santa Catarina, expected 2028).
-- 🌍 **Languages:** Portuguese (Native) & English (C2 Proficient - EF SET).
-
-## 🛠️ Tech Stack
-
-**Languages & Databases**
-- **Java**
 - **Python**
+- **FastAPI**
 - **SQL** (PostgreSQL / MySQL)
-- **Google Apps Script** (Google Workspace Automations)
-
-**Tools & Expertise**
-- **Metabase**
-- **Data Studio (former Looker Studio)**
-- **Odoo**
-- **RD Station (CRM)**
 - **Git** & **GitHub**
-- **Requirements Engineering** & **UAT**
+- **Google Apps Script**
+- **Odoo**
 
-## 🌐 Connect
+## Languages
 
+- **Portuguese (native)**
+- **English (C2)**
+- **French (basic)**
+
+## Contact Me
 - [LinkedIn](https://www.linkedin.com/in/davibertoldo)
 - [Email](mailto:davibertoldo23@gmail.com)
